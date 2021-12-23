@@ -1,27 +1,6 @@
-# AngularCrash
+> npm i çekin
+> ng s -o çekin
+> npm run server çekin
+![image](https://user-images.githubusercontent.com/87669816/147199708-29676ee5-540b-4120-8b28-f1eecaae5b39.png)
+![image](https://user-images.githubusercontent.com/87669816/147199730-5a83df7a-2ab0-4940-b98c-15c6d27062d4.png)
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.0.2.
-
-## Development server
-
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
-
-## Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
