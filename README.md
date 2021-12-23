@@ -7,3 +7,7 @@
 > npm i çekin
 > ng s -o çekin
 > npm run server çekin
+
+
+
+Canlı link : https://hk-todo-app.web.app
